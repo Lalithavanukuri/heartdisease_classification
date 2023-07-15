@@ -16,6 +16,9 @@ number of major vessels (0-3) colored by flourosopy
 thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 and a target attribute whether they have a heart disease or not.
 It contains 1026 feilds.
+
+
+
 It is a CSV (comma seperated values)file.
 1.Load dataset and read file.
 The code reads a dataset from a CSV file named "heart.csv" using the pd.read_csv() function.
