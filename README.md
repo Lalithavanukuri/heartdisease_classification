@@ -1,5 +1,9 @@
 # heartdisease_classification
 
+I explained in a video please check it out
+
+https://drive.google.com/file/d/1hMDLxE1lZHJ0h6XGsI2J2f_SN2iV5Unf/view?usp=sharing
+
 I collected this dataset from Kaggale named 'Heart Disease Dataset' which contains 13 attributes named 
 
 age
